@@ -9,4 +9,4 @@ var routes = require('./api/routes/route'); //importing route
 routes(app);
 app.listen(port);
 
-console.log('FaceSearch API server started on: ' + port);
+// console.log('FaceSearch API server started on: ' + port);
